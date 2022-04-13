@@ -233,5 +233,5 @@ Outputs:
     Value: !Ref PrivateSubnet2
 
   NoIngressSecurityGroup:
-    Description: Security group with no ingress rule "change"
+    Description: Security group with no ingress rule 
     Value: !Ref NoIngressSecurityGroup
